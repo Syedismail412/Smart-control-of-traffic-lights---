@@ -44,5 +44,4 @@ This project focuses on optimizing traffic signal control systems using **Artifi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Smart-Traffic-Light-AI.git
-   cd Smart-Traffic-Light-AI
+https://github.com/Syedismail412/final-year-project.git
